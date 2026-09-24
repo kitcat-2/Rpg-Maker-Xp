@@ -228,4 +228,4 @@ RPG Maker XP is provided as a full free version, with all features and updates i
 Unlock your creativity and start developing your own role-playing game today with RPG Maker XP! Download the official full version now!
 
 ---
-**Last updated:** 2026-09-24 18:52:51 UTC
+**Last updated:** 2026-09-24 22:07:04 UTC
